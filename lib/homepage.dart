@@ -173,7 +173,7 @@ class _HomePageState extends State<HomePage> {
             Text(
               'Welkom bij Jazzies Flowers!',
               style: TextStyle(
-                fontSize: 24,
+                fontSize: 23,
                 fontWeight: FontWeight.bold,
                 color: Colors.green,
               ),
